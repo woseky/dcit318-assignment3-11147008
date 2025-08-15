@@ -1,0 +1,5 @@
+﻿101,Alice Smith,84
+102,Bob Johnson,76
+103,Charlie Lee,65
+104,Denise Young,58
+105,Edward King,43
