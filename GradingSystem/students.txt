@@ -1,5 +1,5 @@
-﻿101,Alice Smith,84
-102,Bob Johnson,76
-103,Charlie Lee,65
-104,Denise Young,58
-105,Edward King,43
+101,Seth Mensah,84,A
+102,Osei Johnson,76,B
+103,Kofi Akoto,65,C
+104,Damien Sarfo,58,D
+105,Edwin Kyei,43,F
